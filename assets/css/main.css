@@ -3279,3 +3279,9 @@ body.homepage.is-preload #header:after {
   padding: 0 1em;
   margin-left: 0.5em;
 }
+
+@media (max-width: 600px) {
+  .goddess {
+    visibility: hidden;
+  }
+}
